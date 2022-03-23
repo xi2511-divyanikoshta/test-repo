@@ -1,0 +1,8 @@
+apiVersion: ""
+git:
+  repoUrl: https://github.com/xi2511-divyanikoshta/test-repo
+  revision: main
+name: test-9158
+vars:
+  apps: null
+  policy: null
