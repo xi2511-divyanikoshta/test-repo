@@ -2,7 +2,7 @@ apiVersion: ""
 git:
   repoUrl: https://github.com/xi2511-divyanikoshta/test-repo
   revision: main
-name: test-9158
+name: test-8092
 vars:
   apps: null
   policy: null
